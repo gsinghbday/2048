@@ -323,15 +323,18 @@ hr {
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/orquestas/8.jpg');
-    background-size: 100%; }
+    background-size: 100%; 
+    font-size: 5px;}
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/orquestas/16.JPG');
-    background-size: 100%; }
+    background-size: 100%;
+    font-size: 5px; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/orquestas/32.jpg');
-    background-size: 100%; }
+    background-size: 100%;
+    font-size: 5px; }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/orquestas/64.jpg'); 
@@ -341,19 +344,19 @@ hr {
     background: url('../tile-sets/orquestas/128.jpg');
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
+    font-size: 5px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+        font-size: 5px; } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/orquestas/256.jpg');
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 45px; }
+    font-size: 5px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+        font-size: 5px; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/orquestas/512.jpg');
