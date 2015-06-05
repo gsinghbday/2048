@@ -323,13 +323,16 @@ hr {
     background: url('../tile-sets/orquestas/8.jpg'); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: url('../tile-sets/orquestas/16.JPG'); }
+    background: url('../tile-sets/orquestas/16.JPG');
+    background-size: 100%; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: url('../tile-sets/orquestas/32.jpg'); }
+    background: url('../tile-sets/orquestas/32.jpg');
+    background-size: 100%; }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: url('../tile-sets/orquestas/64.jpg'); }
+    background: url('../tile-sets/orquestas/64.jpg'); 
+    background-size: 100%;}
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/orquestas/128.jpg');
